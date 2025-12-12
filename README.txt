@@ -62,6 +62,6 @@ This system allows you to:
 
 ---
 
-## 📁 Project Structure
+
 
 
